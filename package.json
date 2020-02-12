@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/maneesh-cts/app-ip_address#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "ip-cidr": "^2.0.7"
   }
 }
